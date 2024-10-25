@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b67ebdc-ccd0-4fe8-8e0a-7b954fd80de1)# PersonajeNavidenio2024
+# PersonajeNavidenio2024
 
 # Personaje2024
 ## Nombre del personaje
