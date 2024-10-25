@@ -34,10 +34,11 @@ Oogie Boogie prendera luces de los ojos y la boca de color azul cuando la temper
 https://drive.google.com/drive/folders/1z3B29Wa05GwpQPbWFvPMHkYWGKZQOFE1?usp=sharing
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+https://wokwi.com/projects/412643007898869761
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+https://drive.google.com/drive/folders/1z3B29Wa05GwpQPbWFvPMHkYWGKZQOFE1?usp=sharing
 
 ## Capturas de Evaluaciones de Curso de C
 ![image](https://github.com/user-attachments/assets/1636e842-ef3e-4bf3-acfc-a57dc77a6d0b)
