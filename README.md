@@ -2,21 +2,28 @@
 
 # Personaje2024
 ## Nombre del personaje
-Oogie Boogie
+Vampiro
 ## Creador
 Luis Fernando Arvizu Martínez
+Luis Miguel Torres Catro
 ## Explicacion del funcionamiento
-Oogie Boogie prendera luces de los ojos y la boca de color azul cuando la temperatura sea igual o menor a 35° y que cambie a color rojo cuando la temperatura sea mayor a 35°. Se moveran sus manos de arriba a abajo cuando se presione un boton. 
+Este vampiro de la pelicula del extraño mundo de Jack, podra moverse sus brazos y cabeza, encender luces ley y ademas reproducir musica de tematica navideña,
+todo esto cuando alguien se acerce a el y el sensor de movimiento lo detecte cerca. 
 
-## Materiales a utlizar
-|Material|Imagen|Cantidad|Costo|
-|--|--|--|--|
-|ESP32|<img src="https://ce8dc832c.cloudimg.io/v7/_cdn_/DE/32/E0/00/0/926701_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=282e18aa04e4d7bc1858b1a66249a5fa8504927d" width="100"/>|1|120.00|
-|Servomotor|<img width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn39nqkB9iTNhWsBSkVArYHVuLSJ_vxWIeug&s" />|1|70.00|
-|LED|<img src ="https://tse2.mm.bing.net/th?id=OIP.d9mrAotgJx6sLN0iMfXS_wAAAA&pid=Api&P=0&h=180" width="100"/>|2|10.00|
-|Sensor PIR|<img src="https://http2.mlstatic.com/D_NQ_NP_778016-MLM49888293805_052022-O.webp" width="100"/>|1|50.00|
-|Zumbador|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
-|Botón pulsador|<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbboZfcOe4sOEdqnkjfmF18inXRLwon058_Q&s" width="100"/>|1|15.00|
+#### -- Materiales electrónicos
+| Componente | Descripción de uso | Cantidad | Precio final |
+|--------------|--------------|--------------|--------------|
+| Servo | Usado para generar movimientos del personaje | 3 pzas | $150.00 |
+| ESP32 | Microcontrolador con 30 pines con comunicacion WiFi y Bluetooth| 2 pzas | $240.00 |
+| Led | Usado para la luz de los gorritos de la alpaca y el capibara | 3 leds | $5.00 |
+| Resistencia de 220 ohm | usado para los led del gorrito del capibara y la alpaca | 2 pzas | $5.00 |
+| Buzzer | Usado para la música del árbol de navidad | 2 pzas | $100.00 |
+| Cables Dupont | Usados para las conexiones de los componentes | 3 pack | $150.00 |
+| Protoboard | Usada para conectar fácilmente componentes electrónicos entre sí, sin necesidad de realizar una soldadura | 3 pzas | $105.00 |
+| Sensor de distancia | El HC-SR04 es un sensor ultrasónico, este utiliza el sonar para determinar la distancia a un objeto | 1 pza | $50.00 |
+| Bolas de Unicel | Usado para dar forma al cuerpo del presonaje | 3 pzas | $70.00 |
+| Tela | Utilizada para la vestimenta del personaje | 1 mt | $50.00 |
+| Fomi Moldeable | Para darle forma a la cara y al sombrero del personaje | 2 paquetes | $60.00 |
 
 
 
