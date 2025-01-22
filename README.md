@@ -38,10 +38,11 @@ todo esto cuando alguien se acerce a el y el sensor de movimiento lo detecte cer
 |Código VS|1.83.1|
 
 ## Dibujo del personaje
-https://drive.google.com/drive/folders/1z3B29Wa05GwpQPbWFvPMHkYWGKZQOFE1?usp=sharing
+![image](https://github.com/user-attachments/assets/9dccb8e5-5c92-4ff0-990b-d4adda0aec97)
+
 
 ## Enlaces de la simulación de wokwi
-https://wokwi.com/projects/412643007898869761
+https://wokwi.com/projects/416318709084049409
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
